@@ -1,0 +1,14 @@
+C:\Users\jglov\RiderProjects\AdvancedNLP\AdvancedNLP\bin\Debug\net8.0\AdvancedNLP.exe
+C:\Users\jglov\RiderProjects\AdvancedNLP\AdvancedNLP\bin\Debug\net8.0\AdvancedNLP.deps.json
+C:\Users\jglov\RiderProjects\AdvancedNLP\AdvancedNLP\bin\Debug\net8.0\AdvancedNLP.runtimeconfig.json
+C:\Users\jglov\RiderProjects\AdvancedNLP\AdvancedNLP\bin\Debug\net8.0\AdvancedNLP.dll
+C:\Users\jglov\RiderProjects\AdvancedNLP\AdvancedNLP\bin\Debug\net8.0\AdvancedNLP.pdb
+C:\Users\jglov\RiderProjects\AdvancedNLP\AdvancedNLP\obj\Debug\net8.0\AdvancedNLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jglov\RiderProjects\AdvancedNLP\AdvancedNLP\obj\Debug\net8.0\AdvancedNLP.AssemblyInfoInputs.cache
+C:\Users\jglov\RiderProjects\AdvancedNLP\AdvancedNLP\obj\Debug\net8.0\AdvancedNLP.AssemblyInfo.cs
+C:\Users\jglov\RiderProjects\AdvancedNLP\AdvancedNLP\obj\Debug\net8.0\AdvancedNLP.csproj.CoreCompileInputs.cache
+C:\Users\jglov\RiderProjects\AdvancedNLP\AdvancedNLP\obj\Debug\net8.0\AdvancedNLP.dll
+C:\Users\jglov\RiderProjects\AdvancedNLP\AdvancedNLP\obj\Debug\net8.0\refint\AdvancedNLP.dll
+C:\Users\jglov\RiderProjects\AdvancedNLP\AdvancedNLP\obj\Debug\net8.0\AdvancedNLP.pdb
+C:\Users\jglov\RiderProjects\AdvancedNLP\AdvancedNLP\obj\Debug\net8.0\AdvancedNLP.genruntimeconfig.cache
+C:\Users\jglov\RiderProjects\AdvancedNLP\AdvancedNLP\obj\Debug\net8.0\ref\AdvancedNLP.dll
